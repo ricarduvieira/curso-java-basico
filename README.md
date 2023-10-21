@@ -3,6 +3,7 @@
 Este repositório contem as atividades realizadas durante o curso **Linguagem de Programação Java – Básico.**
 
 ## Certificado de conclusão
+
 ![image](https://github.com/ricarduvieira/curso-java-basico/assets/102393137/d9774257-ac08-4709-b95c-43e61d9a7573)
 
 ## Resumo do Curso
