@@ -1,6 +1,6 @@
-# Atividades do Curso de Java
+# Atividades do Curso de Java Básico
 
-Este repositório contem as atividades realizadas durante o curso **Linguagem de Programação Java – Básico.**
+Este repositório contem as atividades realizadas durante o curso **Linguagem de Programação Java – Básico**
 
 ## Certificado de conclusão
 
